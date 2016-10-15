@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Printer" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>лаб раб 2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="abstract" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAABAAAAAABAAA=</HashCode>
+      <FileName>eda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eda" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAEQAAAABAAAAWAAAAA=</HashCode>
+      <FileName>eda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hleb" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIgAAAAAAAAAAAgAQAAAABAAAAAAAACA=</HashCode>
+      <FileName>hleb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lunch" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAAAAAAAgAAAAAAEQAAAABAiAQQAAAAA=</HashCode>
+      <FileName>lunch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ovoshi" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQIAAAAAAAAAAAQAABABAAAQAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>ovoshi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="meat" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAABAAgAAAAAAAAFAACAAAAAEABAAAAAAAAIA=</HashCode>
+      <FileName>мясо.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="instectore" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>мясо.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baton" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAACAAAAAIAAAAAiAABAAAAgAAAAA=</HashCode>
+      <FileName>tost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tost" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>tost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

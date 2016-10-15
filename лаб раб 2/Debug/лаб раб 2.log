@@ -1,0 +1,32 @@
+﻿Сборка начата 15.10.2016 4:19:12.
+     1>Проект "C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\лаб раб 2\лаб раб 2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Программы\Пользовательские программы\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\лаб раб 2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt eda.cpp hleb.cpp lunch.cpp ovoshi.cpp tost.cpp "лаб раб 2.cpp" "мясо.cpp"
+         мясо.cpp
+         лаб раб 2.cpp
+     1>c:\users\ирина\desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\лаб раб 2\лаб раб 2.cpp(134): warning C4101: fff: неиспользованная локальная переменная
+     1>c:\users\ирина\desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\лаб раб 2\лаб раб 2.cpp(132): warning C4101: jjj: неиспользованная локальная переменная
+     1>c:\users\ирина\desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\лаб раб 2\лаб раб 2.cpp(133): warning C4101: kkk: неиспользованная локальная переменная
+         ovoshi.cpp
+         lunch.cpp
+         Создание кода...
+         Компиляция...
+         tost.cpp
+         hleb.cpp
+         eda.cpp
+         Создание кода...
+       Link:
+         E:\Программы\Пользовательские программы\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\Debug\лаб раб 2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\Debug\лаб раб 2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\Debug\лаб раб 2.lib" /MACHINE:X86 Debug\eda.obj
+         Debug\hleb.obj
+         Debug\lunch.obj
+         Debug\ovoshi.obj
+         Debug\stdafx.obj
+         Debug\tost.obj
+         "Debug\лаб раб 2.obj"
+         "Debug\мясо.obj"
+         лаб раб 2.vcxproj -> C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\Debug\лаб раб 2.exe
+     1>Сборка проекта "C:\Users\Ирина\Desktop\учеба\3 семестр\ооп\лаб раб 3\лаб раб 2\лаб раб 2\лаб раб 2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:08.94
